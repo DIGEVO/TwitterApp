@@ -1,0 +1,11 @@
+{
+  "name": "digevobot",
+  "version": "0.1",
+  "dependencies": {
+    "alchemy-api": "^1.0.2",
+    "dotenv": "^4.0.0",
+    "request": "2.44.0",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {}
+}
